@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not the project directory
+!project/
+
+# Include .gitignore
+!.gitignore
+!README.md
